@@ -2,7 +2,7 @@
 
 ## Overview
 
-MediCal is a medical/healthcare web application deployed as a static site via GitHub Pages. The site is accessible at [medical.hsy.life](http://medical.hsy.life).
+MediCal is a medical/healthcare web application deployed as a static site via GitHub Pages. The site is accessible at [medical.hsy.life](https://medical.hsy.life).
 
 ## Technology Stack
 

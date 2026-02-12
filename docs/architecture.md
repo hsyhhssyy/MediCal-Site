@@ -153,7 +153,7 @@ Enables:
 ```
 
 - Forces latest IE rendering engine
-- Enables Chrome Frame if available
+- The `chrome=1` parameter referenced the deprecated Chrome Frame (no longer available since 2014)
 - Ensures best compatibility on older IE versions
 
 ### Format Detection
