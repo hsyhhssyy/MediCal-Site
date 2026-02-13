@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .bg{fill:#4A90D9}
+      .fg{fill:#ffffff}
+    </style>
+  </defs>
+  <rect class="bg" x="32" y="32" width="448" height="448" rx="96"/>
+  <path class="fg" d="M240 128c0-8.8 7.2-16 16-16s16 7.2 16 16v72h72c8.8 0 16 7.2 16 16s-7.2 16-16 16h-72v72c0 8.8-7.2 16-16 16s-16-7.2-16-16v-72h-72c-8.8 0-16-7.2-16-16s7.2-16 16-16h72z"/>
+</svg>
